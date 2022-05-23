@@ -22,6 +22,20 @@ This application allows the user to:
 
 ## How to Use
 
+
+First clone the repository:
+
+git clone https://github.com/fares3356/sql-employee-tracker.git
+
+You need to maysure that you have Node.js installed. after, three packages are needed: mysql2, console.table, and inquirer. These can be installed by running npm i inside of the cloned repository. (npm i mysql2 console.table inquirer)
+
+It is also necessary to have MySQL installed on your computer. Installation instructions can be found here
+
+Once MySQL is installed, connect to the mysql server by running (assuming correct install) :
+
+mysql -u root -p.
+
+
 Open your terminal and change into the corresponding directory. Run "node app.js" and you will be prompted with options.
 
 
