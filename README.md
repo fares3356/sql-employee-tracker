@@ -65,4 +65,7 @@ The database contains three tables:
   * **manager_id** - INT to hold reference to another employee that manager of the current employee
 
 
+## Demo
+![Site](demo.gif)
+
 
